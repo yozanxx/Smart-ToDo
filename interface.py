@@ -170,7 +170,7 @@ def load_tasks():
             except json.JSONDecodeError:
                 pass
 
-FICHIER_TACHES = "tasks.json"
+FICHIER_TACHES = "taches.json"
 load_tasks()
 
 for texte, commande in [
