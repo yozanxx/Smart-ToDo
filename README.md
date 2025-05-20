@@ -12,8 +12,8 @@ Elle permet aux utilisateurs de créer, modifier, supprimer et trier des tâches
 - Modifier une tâche existante
 -  Supprimer une tâche
 -  Sauvegarde automatique dans un fichier `.json`
--  Filtrer les tâches (par exemple : tâches terminées ou non terminées)
--  Trier les tâches par titre ou statut
+-  Marqué une tâches comme terminée 
+-  Trier les tâches par titre, date limite et priorité
 -  Interface graphique stylisée avec Tkinter
 
 
