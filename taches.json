@@ -1,0 +1,21 @@
+[
+    {
+        "titre": "c++",
+        "description": "apprendre avant novembre ",
+        "date_limite": "2025-09-12",
+        "priorite": "haute",
+        "terminee": true
+    },
+    {
+        "titre": "php",
+        "description": "apprendre avant la samaine surprochaine",
+        "date_limite": "2025-06-04",
+        "priorite": "basse"
+    },
+    {
+        "titre": "python",
+        "description": "le plus important",
+        "date_limite": "2025-12-02",
+        "priorite": "basse"
+    }
+]
